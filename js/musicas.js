@@ -4,7 +4,7 @@ const songs=[
     name: "Dont be shy",
     artist: "Karol G feat Dj Tiesto",
     url: "/music-player/assets/musicas/KarolG.mp3",
-    img: "/assets/img/Karol.jpg"
+    img: "assets/img/Karol.jpg"
     // url: "https://github.com/Brandon328/music-player/blob/master/assets/musicas/Another%20One%20Bites%20The%20Dust.mp3",
     // img: "https://github.com/Brandon328/music-player/blob/master/assets/img/another%20one%20bites%20the%20dust.jpg"
   },
